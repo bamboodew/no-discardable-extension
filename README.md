@@ -2,6 +2,10 @@
 
 A browser extension that prevents Microsoft Edge from automatically discarding inactive tabs to save memory.
 
+## Language Toggle
+
+For a bilingual experience, please visit the [HTML version of this README](index.html) where you can toggle between English and Chinese.
+
 ## Features
 
 - Toggle tab discarding prevention with a single click
